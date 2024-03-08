@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Kalyan_Pallela_Portfolio/static/css/main.32833149.css",
+    "main.js": "/Kalyan_Pallela_Portfolio/static/js/main.4bb41239.js",
+    "static/media/Kalyans_pic-t.png": "/Kalyan_Pallela_Portfolio/static/media/Kalyans_pic-t.942ca1fe1aa1b6cfe36e.png",
+    "static/media/projectThree.png": "/Kalyan_Pallela_Portfolio/static/media/projectThree.36ca1c995b8985d68432.png",
+    "static/media/projectFive.jpg": "/Kalyan_Pallela_Portfolio/static/media/projectFive.2212e3359cdc2a4e7250.jpg",
+    "static/media/projectTwo.jpg": "/Kalyan_Pallela_Portfolio/static/media/projectTwo.5ac945785d102d5392dc.jpg",
+    "static/media/projectFour.jpg": "/Kalyan_Pallela_Portfolio/static/media/projectFour.909828e862d70ee1a297.jpg",
+    "static/media/projectSix.png": "/Kalyan_Pallela_Portfolio/static/media/projectSix.a8af3e374de105802cec.png",
+    "static/media/contactImg.png": "/Kalyan_Pallela_Portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "index.html": "/Kalyan_Pallela_Portfolio/index.html",
+    "main.32833149.css.map": "/Kalyan_Pallela_Portfolio/static/css/main.32833149.css.map",
+    "main.4bb41239.js.map": "/Kalyan_Pallela_Portfolio/static/js/main.4bb41239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32833149.css",
+    "static/js/main.4bb41239.js"
+  ]
+}
